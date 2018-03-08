@@ -1,0 +1,6 @@
+# Debian Stretch, depot principal + paquets non libres
+deb http://deb.debian.org/debian/ stretch main contrib non-free
+# Debian Stretch, mises a jour de securite + paquets non libres
+deb http://security.debian.org/ stretch/updates main contrib non-free
+# Debian Stretch, mises a jour "volatiles" + paquets non libres
+deb http://deb.debian.org/debian/ stretch-updates main contrib non-free
